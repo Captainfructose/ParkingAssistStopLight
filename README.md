@@ -15,7 +15,7 @@ A stop light to help you park in the perfect position every time!
 * 1 X OLED Display, SSD1306 0.91"
 * 1 X Arduino Nano
 * 1 X Rotary Encoder with Push Button 
-* 3 X 5mm Flat Top LEDs
+* 3 X 5mm Flat Top LEDs (Red,Green,Yellow)
 * 1 X 330Ω Resistor
 * 1 X 2.5mm Female Power Jack
 ** End Parts List **
