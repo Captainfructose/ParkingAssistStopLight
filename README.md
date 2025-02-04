@@ -8,6 +8,7 @@ A stop light to help you park in the perfect position every time!
 * The LEDs need to be flat top leds the rounded ones focus the light too much and will not illuminate the whole area of the filter.
 * If you don't have any flat top LEDs then you can sand a regular rounded LED down until the top is flat.
 * I used Hotglue to attach all the components as well as the front face together and it has worked well so far.
+* If you have any suggestions on how to improve the code or add additional features please let me know!
 
 ** Parts List **
 * 1 X Ultrasonic Sensor HC-SR04 (Generic)
