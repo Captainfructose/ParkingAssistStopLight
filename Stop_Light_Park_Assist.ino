@@ -177,7 +177,7 @@ void loop(){
     digitalWrite(ledY,LOW);
     digitalWrite(ledG,HIGH);
   }
-  // All lights OFF (So far it never seems to make it here...)
+  // All lights OFF (So it doesn't stay on when your car isn't in the garage)
   else {
     digitalWrite(ledR,LOW);
     digitalWrite(ledY,LOW);
@@ -219,12 +219,14 @@ void displayStopDist() {
   // Title (So you can change it if you really want to...)
   display.setCursor(0 ,0);
   display.print("Parking Stop Helper");
+	
   // Stop Distance Display
   display.setCursor(0 ,12); 
   display.print("Stop Dist: ");
   display.setTextSize(1);
   display.print(d ,0);
   display.print("in");
+	
   // Current distance display
   display.setTextSize(1);
   display.setCursor(0 ,25);
