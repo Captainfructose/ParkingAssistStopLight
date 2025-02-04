@@ -11,7 +11,7 @@ A stop light to help you park in the perfect position every time!
 
 ** Parts List **
 * 1 X Ultrasonic Sensor HC-SR04 (Generic)
-* 1 X OLED Display, SSD1306 (Generic)
+* 1 X OLED Display, SSD1306 0.91"(Generic)
 * 1 X Arduino Nano
 * 1 X Rotary Encoder with Push Button 
 * 3 X 5mm Flat Top LEDs
