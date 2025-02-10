@@ -18,4 +18,5 @@ A stop light to help you park in the perfect position every time!
 * 3 X 5mm Flat Top LEDs (Red,Green,Yellow)
 * 1 X 330Ω Resistor
 * 1 X 2.5mm Female Power Jack
+* 1 X Generic Buck Converter
 ** End Parts List **
