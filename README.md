@@ -19,4 +19,4 @@ A stop light to help you park in the perfect position every time!
 * 1 X 330Ω Resistor
 * 1 X 2.5mm Female Power Jack
 * 1 X Generic Buck Converter
-** End Parts List **
+*** End Parts List **
